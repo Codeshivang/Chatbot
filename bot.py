@@ -1,4 +1,4 @@
-# creating a chatbot for phonePe   
+# creating a chatbot for a randome payment app 
 print("hello !")
 print("I am andrew from worldPay, where you are geting problem")
 
